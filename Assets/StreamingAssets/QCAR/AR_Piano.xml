@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Piano_Notations" size="1.000000 0.773639" />
+    <ImageTarget name="Piano_key" size="1.000000 0.772727" />
+    <ImageTarget name="stone_chips_pebbles" size="1.000000 0.700000" />
+    <ImageTarget name="classmate" size="1.000000 1.332938" />
+    <ImageTarget name="Virtual_Piano" size="1200.000000 422.000000" />
+  </Tracking>
+</QCARConfig>
